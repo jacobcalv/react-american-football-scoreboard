@@ -71,6 +71,7 @@
   background-color: var(--black);
   border: 2px solid white;
   border-radius: 6px;
+  width: 22rem;
 }
 
 .bottomRow {
@@ -113,7 +114,12 @@
   justify-content: space-around;
 }
 
+.button-primary {
+  margin-left: 5rem;
+
+}
 .homeButtons__touchdown,
+.aButton__startTimer,
 .homeButtons__fieldGoal,
 .awayButtons__touchdown,
 .awayButtons__fieldGoal {
